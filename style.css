@@ -1,0 +1,16 @@
+.flex {
+    display: flex;
+}
+a {
+    color: rgb(73, 19, 233)
+}
+a:active {
+    color: red;
+    background-color: white;
+}
+a:hover 
+a:visited
+a:focus {
+    color: #0f178c;
+    text-decoration: none;
+}
